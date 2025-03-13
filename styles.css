@@ -1,0 +1,14 @@
+h1 {
+    border-color: red; 
+    border: 1px;
+    font-size: 80px;
+}
+    
+/* logo size */
+.navbar-brand img {
+    max-height: 70px; /* Adjust the height as needed */
+    width: auto; /* Keeps the aspect ratio */
+}
+navbar-brand {
+    background-color:white;
+}
