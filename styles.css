@@ -8,7 +8,13 @@ h1 {
 .navbar-brand img {
     max-height: 70px; /* Adjust the height as needed */
     width: auto; /* Keeps the aspect ratio */
+    border: 5px;
+    border-color: black;
 }
-navbar-brand {
+.navbar {
     background-color:white;
+}
+
+body {
+    background-image: linear-gradient(90deg, rgb(36, 138, 255), rgb(255, 198, 91));
 }
